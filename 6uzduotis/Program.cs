@@ -1,0 +1,12 @@
+﻿int age = 34;
+string name = "Ruslan";
+string workplace = "Software Developer";
+string email = "ruslan@gmail.com";
+string mob = "+3700054656656";
+Console.WriteLine("=====VIZITINE==========");
+Console.WriteLine("Vardas:" + name);
+Console.WriteLine("Amzius:" + age);
+Console.WriteLine("Pareigos:" + workplace);
+Console.WriteLine("E. Pastas : " + email);
+Console.WriteLine("Tel.: " + mob);
+Console.WriteLine("===========================");
